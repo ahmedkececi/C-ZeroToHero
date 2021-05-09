@@ -1,4 +1,4 @@
-# C-Programlama
+# C Zero To Hero
 
-- C Programlamaya Başlangıç Ve Gelişim Sürecinde Kullanabileceğiniz Kodlar
-- Daha Fazlası İçin : [Website](https://ahmedkececi.com)
+- Codes You Can Use While Learning C Programming and Help You Improve Yourself
+- For More : [Website](https://ahmedkececi.com)
