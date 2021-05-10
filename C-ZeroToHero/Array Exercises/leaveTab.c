@@ -10,10 +10,10 @@ int main(){
         printf("%c",sentence[i]);
         if (sentence[i]==32) {
             printf("\n");
-        }
-        counter++;
+            counter++;
         for (j=0;j<counter; j++) {
             printf("\t");
+        }
         }
     }
 }
