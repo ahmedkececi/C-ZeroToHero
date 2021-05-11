@@ -1,9 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 void floyd(int n){
-    int i=1,j,a=1;
+    int i=1,j=1,a=1;
     while (i<=n) {
-        j=1;
         while (j<=i) {
             printf("%3d",a);
             j++;
