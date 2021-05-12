@@ -5,7 +5,6 @@ void deleteline(int list[],int a,int n){
     int i;
     if (a>=n+1) {
         printf("The line you want to delete cannot be greater than your index.");
-        break
     }
     else{
         for (i=a-1; i<a-1; i++) {
